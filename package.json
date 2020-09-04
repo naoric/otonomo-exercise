@@ -40,7 +40,7 @@
     "faker": "^4.1.0",
     "husky": "^1.1.2",
     "joi": "^14.0.1",
-    "node-sass": "^4.9.4",
+    "node-sass": "^4.13.1",
     "pretty-quick": "^1.8.0"
   },
   "husky": {
